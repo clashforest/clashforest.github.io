@@ -1,0 +1,84 @@
+Uri: https://quietforest-game.com/
+File Name: C:\Users\bertug\Documents\quietforest-game.com\index.htm
+Content Type: text/html
+
+Uri: https://quietforest-game.com/style.css
+File Name: C:\Users\bertug\Documents\quietforest-game.com\style.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css
+File Name: C:\Users\bertug\Documents\quietforest-game.com\ajax\libs\font-awesome\5.15.3\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdn.discordapp.com/attachments/1030165228077453426/1030176997596475462/unknown.png
+File Name: C:\Users\bertug\Documents\quietforest-game.com\attachments\1030165228077453426\1030176997596475462\unknown.png
+Content Type: image/png
+
+Uri: https://www.youtube.com/watch?v=QNYoJFB8QM4
+File Name: C:\Users\bertug\Documents\quietforest-game.com\watch.html
+Content Type: text/html
+
+Uri: https://cdn.discordapp.com/attachments/1030165228077453426/1030175594157199391/unknown.png?width=695&height=469
+File Name: C:\Users\bertug\Documents\quietforest-game.com\attachments\1030165228077453426\1030175594157199391\unknown.png
+Content Type: image/png
+
+Uri: https://cdn.discordapp.com/attachments/1030165228077453426/1030175518642933862/unknown.png?width=705&height=469
+File Name: C:\Users\bertug\Documents\quietforest-game.com\attachments\1030165228077453426\1030175518642933862\unknown.png
+Content Type: image/png
+
+Uri: https://cdn.discordapp.com/attachments/1030165228077453426/1030175468684591215/unknown.png?width=823&height=469
+File Name: C:\Users\bertug\Documents\quietforest-game.com\attachments\1030165228077453426\1030175468684591215\unknown.png
+Content Type: image/png
+
+Uri: https://cdn.discordapp.com/attachments/1030165228077453426/1030169880865013800/IMG_1246.png?width=839&height=469
+File Name: C:\Users\bertug\Documents\quietforest-game.com\attachments\1030165228077453426\1030169880865013800\IMG_1246.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.discordapp.com/attachments/1030165228077453426/1030169880525275196/IMG_1247.png?width=850&height=469
+File Name: C:\Users\bertug\Documents\quietforest-game.com\attachments\1030165228077453426\1030169880525275196\IMG_1247.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.discordapp.com/attachments/1030165228077453426/1030169882911838230/IMG_1242.png?width=850&height=469
+File Name: C:\Users\bertug\Documents\quietforest-game.com\attachments\1030165228077453426\1030169882911838230\IMG_1242.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.discordapp.com/attachments/1030165228077453426/1030175468684591215/unknown.png?width=850&height=469
+File Name: C:\Users\bertug\Documents\quietforest-game.com\attachments\1030165228077453426\1030175468684591215\unknown-1.png
+Content Type: image/png
+
+Uri: https://cdn.discordapp.com/attachments/1030165228077453426/1030175518642933862/unknown.png?width=850&height=469
+File Name: C:\Users\bertug\Documents\quietforest-game.com\attachments\1030165228077453426\1030175518642933862\unknown-1.png
+Content Type: image/png
+
+Uri: https://cdn.jsdelivr.net/npm/boxicons@2.0.5/css/boxicons.min.css
+File Name: C:\Users\bertug\Documents\quietforest-game.com\npm\boxicons@2.0.5\css\boxicons.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js
+File Name: C:\Users\bertug\Documents\quietforest-game.com\ajax\libs\jquery\3.3.1\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.discordapp.com/attachments/1030165228077453426/1030176997596475462/unknown.png?width=695&height=469
+File Name: C:\Users\bertug\Documents\quietforest-game.com\attachments\1030165228077453426\1030176997596475462\unknown-1.png
+Content Type: image/png
+
+Uri: https://canary.discord.com/widget?id=984778426697261066&theme=dark
+File Name: C:\Users\bertug\Documents\quietforest-game.com\widget.html
+Content Type: text/html
+
+Uri: https://quietforest-game.com/main.js
+File Name: C:\Users\bertug\Documents\quietforest-game.com\main.js
+Content Type: application/javascript
+
+Uri: https://quietforest-game.com/commands.js
+File Name: C:\Users\bertug\Documents\quietforest-game.com\commands.js
+Content Type: application/javascript
+
+Uri: https://code.iconify.design/1/1.0.4/iconify.min.js
+File Name: C:\Users\bertug\Documents\quietforest-game.com\1\1.0.4\iconify.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&amp;display=swap
+File Name: C:\Users\bertug\Documents\quietforest-game.com\css2.css
+Content Type: text/css
+
